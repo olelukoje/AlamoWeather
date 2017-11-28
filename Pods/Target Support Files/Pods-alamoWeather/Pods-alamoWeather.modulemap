@@ -1,0 +1,6 @@
+framework module Pods_alamoWeather {
+  umbrella header "Pods-alamoWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
